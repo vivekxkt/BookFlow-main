@@ -230,7 +230,23 @@ body {
     border-radius: 1rem;
 }
 
+.aboutus{
+    width: 79%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    margin: 5% auto;
+}
 
+.about-heading{
+    font-size: 6rem;
+    justify-content: center;
+    padding-left: 10%;
+    margin-bottom: 5%;
+}
 
-
- 
+.about-content2{
+    font-size:1.5rem ;
+    justify-content: center;
+    margin: 10%;
+}
